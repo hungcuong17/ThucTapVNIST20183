@@ -6,5 +6,9 @@ echo $x+$y;
 
 echo $x;
 echo $y;
+
 echo 'Duc ngoo';
+
+echo 'hello hello';
+
 ?>
