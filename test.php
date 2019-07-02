@@ -6,4 +6,5 @@ echo $x+$y;
 
 echo $x;
 echo $y;
+echo 'Duc dep gai';
 ?>
