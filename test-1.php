@@ -4,6 +4,7 @@
 
 <?php
 echo "Xin chào";
+echo "ok";
 ?>
 
 </body>
