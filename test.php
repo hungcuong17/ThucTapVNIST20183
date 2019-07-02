@@ -6,5 +6,5 @@ echo $x+$y;
 
 echo $x;
 echo $y;
-echo $txt;
+echo 'hello';
 ?>
